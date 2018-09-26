@@ -1,3 +1,7 @@
+# Description
+
+Clone AirBnB com AdonisJS, React Native e ReactJS, onde iremos construir do zero uma aplicação tanto web quando mobile com dados servidos através de uma API REST feita com NodeJS utilizando o framework AdonisJS.
+
 # Adonis API application
 
 This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
