@@ -1,0 +1,7 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/airbnb-server/node_modules
+
+# dotenv environment variables file
+/airbnb-server/.env
